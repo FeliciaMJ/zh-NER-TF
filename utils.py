@@ -1,4 +1,5 @@
-import logging, sys, argparse
+import argparse
+import logging
 
 
 def str2bool(v):
